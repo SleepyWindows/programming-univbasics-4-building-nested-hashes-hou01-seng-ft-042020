@@ -2,7 +2,7 @@ def base_hash
   railroads = {
 
   }
-  base_hash
+  
 
 end
 
